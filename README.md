@@ -186,7 +186,3 @@ Potential applications include energy planning, renewable integration, resource 
 ## Citation
 
 If you use or build on this repository, please cite the repository URL and the relevant original dataset publications/providers. A formal citation for the proposed method will be added if the work is developed into a publication.
-
-## License
-
-Choose and add an appropriate open-source license before publishing. Also verify that the licenses and terms of use of the source datasets permit your intended redistribution and use.
